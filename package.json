@@ -1,0 +1,16 @@
+{
+  "name": "unzipper-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rimraf": "^3.0.2",
+    "unzipper": "^0.10.11",
+    "zip-folder": "^1.0.0"
+  }
+}
